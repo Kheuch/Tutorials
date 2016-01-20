@@ -3,9 +3,7 @@ Tutorials for the AIMS students 15/16
 
 Git folder (from http://gitimmersion.com/). Work offline, just double click on the index file from the corresponding folder.
 
-
      Table of Contents
-     Home Cover Page
     1: Setup
     2: More Setup
     3: Create a Project
