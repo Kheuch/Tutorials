@@ -1,7 +1,7 @@
 # Tutorials
 Tutorials for the AIMS students 15/16
 
-Git folder (from http://gitimmersion.com/). Work offline, just double click on the index file from the corresponding folder.
+Git Tutorials (from http://gitimmersion.com/). Work offline, just double click on the index file from the corresponding folder.
 
      Table of Contents
     1: Setup
@@ -57,3 +57,40 @@ Git folder (from http://gitimmersion.com/). Work offline, just double click on t
     51: Sharing Repos
     52: Advanced / Future Topics
     53: Thank you
+
+Machine Learning Tutorial - Thanks to Jacob VanderPlas (github adress http://astroML.github.com/sklearn_tutorial/)
+
+    1. Tutorial Setup and Installation
+        1.1. Python Prerequisites
+        1.2. Tutorial Files
+        1.3. Download the datasets
+    2. Machine Learning 101: General Concepts
+        2.1. Features and feature extraction
+        2.2. Supervised Learning, Unsupervised Learning, and scikit-learn syntax
+        2.3. Supervised Learning: model.fit(X, y)
+        2.4. Unsupervised Learning: model.fit(X)
+        2.5. Linearly separable data
+        2.6. Hyperparameters, training set, test set and overfitting
+        2.7. Key takeaway points
+    3. Machine Learning 102: Practical Advice
+        3.1. Bias, Variance, Over-fitting, and Under-fitting
+        3.2. Cross-Validation and Testing
+        3.3. Learning Curves
+        3.4. Summary
+    4. Classification: Learning Labels of Astronomical Sources
+        4.1. Motivation: Why is this Important?
+        4.2. Star-Quasar Classification: Naive Bayes
+    5. Regression: Photometric Redshifts of Galaxies
+        5.1. Motivation: Dark Energy, Dark Matter, and the Fate of the Universe
+        5.2. A Simple Method: Decision Tree Regression
+    6. Dimensionality Reduction of Astronomical Spectra
+        6.1. SDSS Spectral Data
+        6.2. Principal Component Analysis
+        6.3. References
+    7. Exercises: Taking it a step further
+        7.1. Exercise 1: Photometric Classification with GMM
+        7.2. Exercise 2: Photometric redshifts with Decision Trees
+        7.3. Exercise 3: Dimensionality Reduction of Spectra
+    8. Code examples
+
+© scikit-learn developers. Created using Sphinx 1.1.3. Design b
