@@ -1,7 +1,7 @@
 # Tutorials
 Tutorials for the AIMS students 15/16
 
-Git Tutorials (from http://gitimmersion.com/). Work offline, just double click on the index file from the corresponding folder.
+Git Tutorials (from http://gitimmersion.com/). Work offline, just double click on the index file from the Git_folder.
 
      Table of Contents
     1: Setup
@@ -93,4 +93,4 @@ Machine Learning Tutorial - Thanks to Jacob VanderPlas (github adress http://ast
         7.3. Exercise 3: Dimensionality Reduction of Spectra
     8. Code examples
 
-© scikit-learn developers. Created using Sphinx 1.1.3. Design b
+© scikit-learn developers.
